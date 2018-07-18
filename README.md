@@ -22,6 +22,39 @@ Our first method was using two key substances: cereal alcohol(diluted with disti
 
 
 ## Notes
+An [json model](scent-model.json) was created to provide an common way of store these scents.
+
+```json
+{
+	"ingredients": [{
+		"name": "",
+		"percentage": 0,
+		"description": "",
+		"observation": "",
+		"oid": ""
+	}],
+
+	"goodfor": [{
+		"frasque": "",
+		"description": ""
+	}],
+
+	"smellnotes": [{
+		"name": "",
+		"moderation": [
+			"strong",
+			"weak",
+			"moderated",
+			"exagerated"
+		]
+	}],
+
+	"description": [{
+		"language": "",
+		"text": ""
+	}]
+}
+```
 
 ## Index
 [Marine 1](./marine_1.md")

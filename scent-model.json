@@ -1,0 +1,29 @@
+{
+	"ingredients": [{
+		"name": "",
+		"percentage": 0,
+		"description": "",
+		"observation": "",
+		"oid": ""
+	}],
+
+	"goodfor": [{
+		"frasque": "",
+		"description": ""
+	}],
+
+	"smellnotes": [{
+		"name": "",
+		"moderation": [
+			"strong",
+			"weak",
+			"moderated",
+			"exagerated"
+		]
+	}],
+
+	"description": [{
+		"language": "",
+		"text": ""
+	}]
+}
